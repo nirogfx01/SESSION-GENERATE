@@ -59,24 +59,24 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: "" + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃MASTER MD SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = Sahan / MASTER MIND_👨🏻‍💻
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaWWZa1G3R3c4TPADo0M
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://wa.me/+94720797915
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❺ || INSTAGRAM = https://www.instagram.com/sahanmaduwantha2006?igsh=YzljYTk1ODg3Zg==
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❻ || FaceBook = https://www.facebook.com/profile.php?id=100089180711131
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍʀ ꜱᴀʜᴀɴ ᴏꜰᴄ
-       `
+*_Qr Code Connected by shanuwa md Made With 🖤_*
+❃_____________________________________❃
+╔════⛤
+╠ *『 𝑾𝑬𝑳𝑪𝑶𝑴𝑬 』*
+╠ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+╚══════════════════════╝ 
+╔════⛤
+╠ *『 ▿▵▿ Visit For Help ▵▿▵ 』*
+╠ *✦ Youtube:* https://www.youtube.com/@SL_Shanuwa
+╠ *✦ Owner:* SHANUWA
+╠ *✦ Repo:* https://github.com/mrshameen/SHANUWA-MD
+╠ *✦ WaGroup:* https://chat.whatsapp.com/HjDrEpRyT7AKGiI7sy4sCp
+╠ *✦ WaChannel:* https://whatsapp.com/channel/0029VaiLZwyL7UVO1s7VEO2I
+╠ *✦ 𝑺𝑯𝑨𝑵𝑼𝑾𝑨 𝑴𝑫:*
+╚══════════════════════╝ 
+𝑺𝑯𝑨𝑵𝑼𝑾𝑨 𝑴𝑫
+❃_____________________________________❃ 
+ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱʜᴀɴᴜᴡᴀ`
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
 
